@@ -237,7 +237,6 @@ def runProgram(sideSize, numTrials):
     print(elapTim,flush=True)
     
 
-runProgram(1000,100)
-runProgram(1000,100)
+runProgram(100,50)
 #runProgram(3000,1)
 #runProgram(4000,1)
